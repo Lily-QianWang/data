@@ -8,3 +8,22 @@ Weight,Height
 
 Weight,Height
 75.5,175.0
+
+Category,Product Name,Price,Stock Status,Weight,Image URL
+Sports & Outdoors,Sports & Outdoors Product 22,$197.83,Out of stock,2.49,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/sportsoutdoors1.jpg
+Groceries,Groceries Product 41,$81.78,Out of stock,2.33,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/groceries1.jpg
+Sports & Outdoors,Sports & Outdoors Product 14,$153.76,In stock,4.7,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/sportsoutdoors1.jpg
+Sports & Outdoors,Sports & Outdoors Product 48,$69.52,Out of stock,4.75,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/sportsoutdoors1.jpg
+Electronics,Electronics Product 1,$152.81,Out of stock,4.82,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/electronics1.jpg
+Beauty & Health,Beauty & Health Product 49,$163.51,Out of stock,1.46,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/beautyhealth1.jpg
+Beauty & Health,Beauty & Health Product 15,$76.13,Out of stock,1.52,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/beautyhealth1.jpg
+Groceries,Groceries Product 99,$157.34,Out of stock,2.28,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/groceries1.jpg
+Beauty & Health,Beauty & Health Product 58,$78.53,Out of stock,1.66,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/beautyhealth1.jpg
+Electronics,Electronics Product 3,$114.05,In stock,1.89,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/electronics1.jpg
+Groceries,Groceries Product 63,$119.64,Out of stock,4.16,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/groceries1.jpg
+Electronics,Electronics Product 40,$20.35,Out of stock,3.45,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/electronics1.jpg
+Electronics,Electronics Product 93,$196.49,Out of stock,3.34,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/electronics1.jpg
+Sports & Outdoors,Sports & Outdoors Product 39,$12.44,Out of stock,2.22,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/sportsoutdoors1.jpg
+Groceries,Groceries Product 6,$161.46,Out of stock,1.66,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/groceries1.jpg
+Sports & Outdoors,Sports & Outdoors Product 36,$176.73,Out of stock,2.22,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/sportsoutdoors1.jpg
+Beauty & Health,Beauty & Health Product 71,$53.28,Out of stock,4.75,https://raw.githubusercontent.com/Lily-QianWang/MBAN6120-Group-Project/main/beautyhealth1.jpg
